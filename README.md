@@ -1,23 +1,9 @@
-# Title
-A
-B
-C
-D
-E
-
-# Code style
-A
-B
-
-
-# Features
-
-A
-B
-
-
-# Code Example
-
-import A
-B
-C
+## Pytorch 코드 연습
+  
+  
+  
+- Pytorch Basic
+- nn & nn.functional
+- Data Loader
+- Build Neural Networks
+- Optimizer
