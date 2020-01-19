@@ -7,3 +7,8 @@
 - Data Loader
 - Build Neural Networks
 - Optimizer
+- Custom Dataset
+- nn.Sequential, Save and Load
+- Visdom Basic
+- CIFAR10
+- Transfer Learning_Resnet18(CIFAR10)
